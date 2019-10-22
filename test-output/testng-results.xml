@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="20011" started-at="2019-10-12T15:05:02 IST" finished-at="2019-10-12T15:05:22 IST">
+  <suite name="Suite" duration-ms="20684" started-at="2019-10-22T12:10:28 IST" finished-at="2019-10-22T12:10:48 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="20011" started-at="2019-10-12T15:05:02 IST" finished-at="2019-10-12T15:05:22 IST">
+    <test name="Test" duration-ms="20684" started-at="2019-10-22T12:10:28 IST" finished-at="2019-10-22T12:10:48 IST">
       <class name="com.testleaf.ACME_System.Login">
-        <test-method status="PASS" signature="LoginMethod()[pri:0, instance:com.testleaf.ACME_System.Login@3fd7a715]" name="LoginMethod" duration-ms="19948" started-at="2019-10-12T15:05:02 IST" finished-at="2019-10-12T15:05:22 IST">
+        <test-method status="PASS" signature="LoginMethod()[pri:0, instance:com.testleaf.ACME_System.Login@74e52ef6]" name="LoginMethod" duration-ms="20556" started-at="2019-10-22T12:10:28 IST" finished-at="2019-10-22T12:10:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginMethod -->
